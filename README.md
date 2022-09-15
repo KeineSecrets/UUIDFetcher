@@ -9,7 +9,7 @@ username and the uuid. After that, if not already, it will automatically add it 
 in order to get it faster next time.
 
 # What do you need?
-**»** [The GSON library](https://github.com/google/gson)
+**»** [The GSON library](https://github.com/google/gson)<br>
 **»** [The JSON library](https://github.com/stleary/JSON-java)
 
 ## You may use it for any purpose and you may improve the code<br>by forking, editing, push requesting
