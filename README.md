@@ -3,7 +3,7 @@ New UUIDFetcher ([since Mojang removed username history API](https://help.minecr
 
 # How does it work?
 It works just like the old UUIDFetchers (#getUUID, #getName), just with JSON.<br>
-At calling any of the methods - if not already in the cache - will<br>
+At calling any of the methods - if not already in the cache - will
 connect to [this address](https://api.ashcon.app/mojang/v2/user/KeineSecrets), in order to get the<br>
 username and the uuid. After that, if not already, it will automatically add it to the uuid and name cache<br>
 in order to get it faster next time.
