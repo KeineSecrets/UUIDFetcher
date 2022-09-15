@@ -12,5 +12,4 @@ in order to get it faster next time.
 <li>[The GSON library](https://github.com/google/gson)</li>
 <li>[The JSON library](https://github.com/stleary/JSON-java)</li>
 
-## You may use it for any purpose and you may improve the code
-## by forking, editing, push requesting
+## You may use it for any purpose and you may improve the code<br>by forking, editing, push requesting
